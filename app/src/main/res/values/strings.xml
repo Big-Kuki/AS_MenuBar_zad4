@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AS_MenuBar_zad4</string>
+    <string name="toolbar_default_title">Licznik</string>
+    <string name="toolbar_title_format">Licznik: %d</string>
+    <string name="initial_counter">0</string>
+    <string name="menu_add">+1</string>
+    <string name="menu_subtract">-1</string>
+    <string name="menu_reset">Zeruj</string>
+    <string name="dialog_reset_title">Potwierdzenie</string>
+    <string name="dialog_reset_message">Czy na pewno chcesz wyzerować licznik?</string>
+    <string name="dialog_yes">Tak</string>
+    <string name="dialog_no">Nie</string>
+    <string name="toast_below_zero">Licznik nie może spaść poniżej 0</string>
+</resources>
